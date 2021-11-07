@@ -1,0 +1,12 @@
+.text-sm{
+    font-size: 12px;
+    color: gray;
+}
+
+.d-flex{
+    display: flex;
+}
+
+blue{
+    color: dodgerblue;
+}
